@@ -1,5 +1,3 @@
-![345 Strategies](https://345strategies.com/assets/desk.webp)
-
 Tools for traders and investors smart enough to keep it simple.
 
 | | |
